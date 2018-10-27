@@ -34,6 +34,22 @@ I've got a secret with the problem
 I've got a secret for the shades of the problem
 ```
 
+```
+And one of the hold of her crime
+The sharp and the city has a face
+```
+
+```
+But the summer
+On the riser is the halfword completely
+Magical Push foreign time
+```
+
+```
+I can see the shade of the complexity
+I took the crown of the problem
+```
+
 ## Credits
 
 Uses [textgenrnn](https://github.com/minimaxir/textgenrnn) which uses [Tensorflow](https://www.tensorflow.org/).
