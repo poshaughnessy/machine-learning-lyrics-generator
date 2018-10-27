@@ -12,7 +12,7 @@ python3 run.py
 
 ## Example output
 
-Here are some of the new lyrics that it's generated ð
+Here are some of the new lyrics that it's generated 😆
 
 ```
 I've got a protein for you
